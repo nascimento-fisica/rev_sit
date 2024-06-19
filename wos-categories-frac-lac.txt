@@ -1,0 +1,144 @@
+Web of Science Categories	Record Count	% of 854
+Engineering Electrical Electronic	94	11.007
+Physics Multidisciplinary	71	8.314
+Mathematics Interdisciplinary Applications	51	5.972
+Multidisciplinary Sciences	49	5.738
+Optics	49	5.738
+Physics Mathematical	49	5.738
+Computer Science Artificial Intelligence	48	5.621
+Materials Science Multidisciplinary	48	5.621
+Physics Applied	42	4.918
+Geosciences Multidisciplinary	38	4.450
+Engineering Biomedical	37	4.333
+Environmental Sciences	35	4.098
+Food Science Technology	32	3.747
+Imaging Science Photographic Technology	30	3.513
+Engineering Chemical	29	3.396
+Computer Science Interdisciplinary Applications	28	3.279
+Computer Science Information Systems	26	3.044
+Computer Science Theory Methods	26	3.044
+Radiology Nuclear Medicine Medical Imaging	26	3.044
+Physics Fluids Plasmas	23	2.693
+Chemistry Physical	21	2.459
+Mathematics Applied	21	2.459
+Ophthalmology	20	2.342
+Energy Fuels	19	2.225
+Remote Sensing	19	2.225
+Telecommunications	19	2.225
+Physics Condensed Matter	18	2.108
+Ecology	16	1.874
+Soil Science	16	1.874
+Microscopy	15	1.756
+Polymer Science	15	1.756
+Biology	14	1.639
+Mathematical Computational Biology	14	1.639
+Neurosciences	14	1.639
+Water Resources	14	1.639
+Geochemistry Geophysics	13	1.522
+Meteorology Atmospheric Sciences	13	1.522
+Peripheral Vascular Disease	12	1.405
+Automation Control Systems	11	1.288
+Cell Biology	11	1.288
+Dentistry Oral Surgery Medicine	11	1.288
+Engineering Mechanical	11	1.288
+Chemistry Applied	10	1.171
+Geology	10	1.171
+Operations Research Management Science	10	1.171
+Biotechnology Applied Microbiology	9	1.054
+Geography Physical	9	1.054
+Mathematics	9	1.054
+Medicine Research Experimental	9	1.054
+Nanoscience Nanotechnology	9	1.054
+Biochemistry Molecular Biology	8	0.937
+Chemistry Multidisciplinary	8	0.937
+Computer Science Software Engineering	8	0.937
+Pathology	8	0.937
+Anatomy Morphology	7	0.820
+Astronomy Astrophysics	7	0.820
+Engineering Civil	7	0.820
+Oncology	7	0.820
+Pharmacology Pharmacy	7	0.820
+Physiology	7	0.820
+Plant Sciences	7	0.820
+Biophysics	6	0.703
+Environmental Studies	6	0.703
+Geriatrics Gerontology	6	0.703
+Instruments Instrumentation	6	0.703
+Marine Freshwater Biology	6	0.703
+Medical Informatics	6	0.703
+Mining Mineral Processing	6	0.703
+Surgery	6	0.703
+Biochemical Research Methods	5	0.585
+Engineering Environmental	5	0.585
+Engineering Multidisciplinary	5	0.585
+Engineering Petroleum	5	0.585
+Forestry	5	0.585
+Materials Science Biomaterials	5	0.585
+Materials Science Coatings Films	5	0.585
+Mechanics	5	0.585
+Medicine General Internal	5	0.585
+Metallurgy Metallurgical Engineering	5	0.585
+Mineralogy	5	0.585
+Acoustics	4	0.468
+Agriculture Multidisciplinary	4	0.468
+Clinical Neurology	4	0.468
+Computer Science Hardware Architecture	4	0.468
+Endocrinology Metabolism	4	0.468
+Geography	4	0.468
+Hematology	4	0.468
+Limnology	4	0.468
+Materials Science Characterization Testing	4	0.468
+Public Environmental Occupational Health	4	0.468
+Statistics Probability	4	0.468
+Toxicology	4	0.468
+Agricultural Engineering	3	0.351
+Agronomy	3	0.351
+Cardiac Cardiovascular Systems	3	0.351
+Construction Building Technology	3	0.351
+Engineering Geological	3	0.351
+Engineering Manufacturing	3	0.351
+Green Sustainable Science Technology	3	0.351
+Materials Science Ceramics	3	0.351
+Materials Science Textiles	3	0.351
+Oceanography	3	0.351
+Physics Atomic Molecular Chemical	3	0.351
+Regional Urban Planning	3	0.351
+Anthropology	2	0.234
+Archaeology	2	0.234
+Dermatology	2	0.234
+Developmental Biology	2	0.234
+Education Educational Research	2	0.234
+Education Scientific Disciplines	2	0.234
+Neuroimaging	2	0.234
+Nuclear Science Technology	2	0.234
+Nutrition Dietetics	2	0.234
+Biodiversity Conservation	1	0.117
+Cell Tissue Engineering	1	0.117
+Chemistry Analytical	1	0.117
+Chemistry Medicinal	1	0.117
+Chemistry Organic	1	0.117
+Computer Science Cybernetics	1	0.117
+Emergency Medicine	1	0.117
+Engineering Ocean	1	0.117
+Evolutionary Biology	1	0.117
+Gastroenterology Hepatology	1	0.117
+Genetics Heredity	1	0.117
+Gerontology	1	0.117
+Hospitality Leisure Sport Tourism	1	0.117
+Immunology	1	0.117
+Infectious Diseases	1	0.117
+Materials Science Paper Wood	1	0.117
+Medicine Legal	1	0.117
+Orthopedics	1	0.117
+Parasitology	1	0.117
+Physics Particles Fields	1	0.117
+Psychology Mathematical	1	0.117
+Respiratory System	1	0.117
+Rheumatology	1	0.117
+Spectroscopy	1	0.117
+Thermodynamics	1	0.117
+Transplantation	1	0.117
+Tropical Medicine	1	0.117
+Urology Nephrology	1	0.117
+Veterinary Sciences	1	0.117
+Zoology	1	0.117
